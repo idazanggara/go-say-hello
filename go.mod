@@ -1,3 +1,3 @@
-module go-say-hello
+module github.com/idazanggara/go-say-hello
 
 go 1.26.1
